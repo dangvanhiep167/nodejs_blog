@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "Hiep-Dang init node first-project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "  \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangvanhiep167/nodejs_blog.git"
+  },
+  "keywords": [
+    "hiepdv5",
+    "hiepdv5-nodejs"
+  ],
+  "author": "HiepDV5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangvanhiep167/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/dangvanhiep167/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
